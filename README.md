@@ -1,10 +1,11 @@
-To-Do List Web Application README
+# To-Do List Web Application README
 
 
 The To-Do List web application is a Django-based project designed to empower multiple users to create their individual profiles and maintain personalized to-do lists. This intuitive application fosters organization and efficiency, providing a user-friendly platform for individuals to keep track of their tasks and priorities.
 
 _____________________________________________________
 
+# WHAT I HAVE LEARNED!
 
 While developing the Django-based To-Do List web application, I gained valuable insights and learned important lessons that enhanced my understanding of web development and Django framework. Here's what I learned:
 
@@ -29,7 +30,7 @@ Overall, developing the Django-based To-Do List web application was a valuable l
 
 _____________________________________________________
 
-Features
+# Features
 
 
 User Authentication: Users can register, log in, and log out securely to access their personalized to-do lists.
@@ -44,7 +45,7 @@ Cross-Device Compatibility: Users can access the application from desktops, lapt
 
 _____________________________________________________
 
-Getting Started
+# Getting Started
 
 
 To get started with the To-Do List web application, follow these steps:
@@ -66,7 +67,7 @@ Access the Application: Open a web browser and navigate to http://localhost:8000
 
 _____________________________________________________
 
-Usage
+# Usage
 
 
 User Registration: New users can register for an account by providing their username, and password.
@@ -81,7 +82,7 @@ Delete Tasks: Users can delete tasks they no longer need.
 
 _____________________________________________________
 
-Class-Based Views
+# Class-Based Views
 
 
 The views in this project are implemented using class-based views provided by Django. Each view corresponds to a specific functionality, such as listing tasks, creating tasks, updating tasks, and deleting tasks. These views are organized in a modular and reusable manner, enhancing code maintainability and scalability.
